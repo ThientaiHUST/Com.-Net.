@@ -5,7 +5,7 @@ import time
 
 #creating TCP socket
 server_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-ip = '127.0.1.1'
+ip = '127.0.0.1'
 
 # taking port as input from the user
 port = int(input('Enter desired port = '))

@@ -5,7 +5,7 @@ import timeit
 import datetime
 
 # taking server IP and port as input
-target_ip = '127.0.1.1'
+target_ip = '127.0.0.1'
 target_port = input('Enter port = ')
 
 # dictionary defined for a suitable name format of the downloaded file

@@ -5,7 +5,7 @@ import timeit
 
 # get the IP and port of the server
 target_port = int(input('Enter port = '))
-input_ip = '127.0.1.1'
+input_ip = '127.0.0.1'
 target_ip = (input_ip, target_port)
 
 # Name definition
